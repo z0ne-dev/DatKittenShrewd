@@ -1,0 +1,19 @@
+﻿{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+        "orderingRules": {
+            "usingDirectivesPlacement": "outsideNamespace"
+        },
+        "namingRules": {
+            "includeInferredTupleElementNames": true,
+            "tupleElementNameCasing": "PascalCase"
+        },
+        "layoutRules": {
+            "newlineAtEndOfFile": "require"
+        },
+        "documentationRules": {
+            "companyName": "z0ne",
+            "fileNamingConvention": "stylecop"
+        }
+    }
+}
